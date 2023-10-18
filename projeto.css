@@ -1,0 +1,18 @@
+body{
+    background-color: #132b33;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+h2{
+    color: #fc9432;
+    text-align: center;
+}
+.titulo{
+    color: antiquewhite;
+}
+.subtitulo{
+    color: #fc9432;
+}

@@ -1,0 +1,17 @@
+body{
+    background-color: #132b33;
+}
+header{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.titulo{
+    color: antiquewhite;
+}
+.subtitulo{
+    color: #fc9432;
+}
+main{
+    color: #fc9432;
+}

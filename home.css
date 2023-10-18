@@ -1,0 +1,41 @@
+body{
+    background-color: #132b33;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.link{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%s;
+}
+a{
+    font-size: 20px;
+    color: #fc9432;
+    text-decoration: none;
+}
+a:hover, li:hover{
+    color: white;
+    font-size: 25px;
+}
+.titulo{
+    color: antiquewhite;
+}
+.subtitulo{
+    color: #fc9432;
+}
+.cadastro{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+li{
+    color: #fc9432;
+}

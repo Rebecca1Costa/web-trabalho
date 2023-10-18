@@ -1,0 +1,26 @@
+body{
+    background-color: #132b33;
+}
+.cabecalho{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+} 
+.titulo{
+    color: antiquewhite;
+}
+.subtitulo{
+    color: #fc9432;
+}
+.redes{
+    display: flex;
+    color: #fc9432;
+    padding: 20px;
+    justify-content: space-around;
+}
+.redes a{
+    color: #fc9432;
+    text-decoration: none;
+    display: block;
+    margin: 5px 0;
+}
